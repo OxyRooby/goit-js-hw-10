@@ -18,3 +18,27 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+input {
+  margin: 50px;
+}
+
+img {
+  height: 100%;
+  margin-right: 16px;
+}
+
+.flag-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.country-info {
+  margin: 50px;
+}
